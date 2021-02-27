@@ -34,7 +34,7 @@
 
   This application was developed using Object-Oriented Programming. Classes and constructors were used to produce team member objects and the program runs using Node.js, inquirer, and FS node module. The app was made by using test-driven development. 
   
-  <iframe src="https://drive.google.com/file/d/1J5-w_2lkI_L__mPLp-PZ4YL7eZKU6jP7/preview" width="640" height="480"></iframe>
+  Video Link: "https://drive.google.com/file/d/1J5-w_2lkI_L__mPLp-PZ4YL7eZKU6jP7/preview"
 
   ## Tests
 
